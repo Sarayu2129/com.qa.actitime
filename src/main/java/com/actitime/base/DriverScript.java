@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
 public class DriverScript {
 	
 	public static WebDriver driver;
-	Properties  prop;
+	Properties  prop;// this is the propertie file
 
 	public DriverScript(){
 		try{
