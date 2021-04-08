@@ -53,7 +53,7 @@ public class DriverScript {
 		driver.get(prop.getProperty("qaurl"));
 		
 		}
-	
+	//this method is to close the application
 	public void closeApplication(){
 		driver.close();
 	}
