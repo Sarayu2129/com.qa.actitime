@@ -29,6 +29,7 @@ public class DriverScript {
 		}
 	}
 	@Test
+	//this method is to initialise the browser
 	public void initiConfiguration(){
 		
 		
